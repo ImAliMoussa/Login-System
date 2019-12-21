@@ -1,0 +1,9 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1569971677967-98884df14117?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=899&q=80");
+    /**/
+    background-size: cover; 
+}
